@@ -12,12 +12,11 @@ This repository serves as the central hub for our analytics team's end-to-end de
 
 ## 👥 Analytics Team & Roles
 
-| Role | Contributor | Core Responsibilities |
-| :--- | :--- | :--- |
-| **Data Analyst** | [@YourGitHubUsername](https://github.com/YourGitHubUsername) | SQL querying, dashboard development, operational KPI tracking |
-| **Data Analyst** | [@Teammate1Username](https://github.com/Teammate1Username) | Exploratory data analysis (EDA), data cleaning, visual storytelling |
-| **Data Scientist** | [@Teammate2Username](https://github.com/Teammate2Username) | Statistical modeling, demand forecasting, stockout risk prediction |
-
+| Role | Contributor | 
+| :--- | :--- |
+| **Data Analyst** | [@Ruth-Imoni](https://github.com/Ruth-Imoni) | 
+| **Data Analyst** | [@MLGideon](https://github.com/MLGideon) | 
+| **Data Scientist** | [@Kumari-arya05](https://github.com/Kumari-arya05) | 
 ---
 
 ## 📁 Dataset Download
@@ -43,23 +42,23 @@ The analyses across all 12 sprints utilize raw supply-chain operational datasets
 ---
 ## 📅 Sprint Progress & Deliverables
 
-| Sprint | Focus Area | Key Deliverables | Sprint Notes | Status |
-| :---: | :--- | :--- | :---: | :---: |
-| **Week 01** | Data Ingestion & Initial EDA | *pending* | - | 🟢 Complete |
-| **Week 02** | Identify Slow Movers | *Pending* | - | 🟢 Complete |
-| **Week 03** | Product Health | *Pending* | - | 🟢 Complete  |
-| **Week 04** | Suppliers Analysis | *Pending* | - | ⚪ Planned |
-| **Week 05** | - | *Pending* | - | ⚪ Planned |
-| **Week 06** | - | *Pending* | - | ⚪ Planned |
-| **Week 07** | - | *Pending* | - | ⚪ Planned |
-| **Week 08** | - | *Pending* | - | ⚪ Planned |
-| **Week 09** | - | *Pending* | - | ⚪ Planned |
-| **Week 10** | - | *Pending* | - | ⚪ Planned |
-| **Week 11** | - | *Pending* | - | ⚪ Planned |
-| **Week 12** | Final Portfolio Presentation | *Pending* | - | ⚪ Planned |
-## 📂 Repository Structure
+| Sprint | Focus Area | Key Deliverables | Sprint Notes | Status | Scrum Master | 
+| :---: | :--- | :--- | :---: | :---: | :---:|
+| **Week 01** | Data Ingestion & Initial EDA | *pending* | - | 🟢 Complete | - |
+| **Week 02** | Identify Slow Movers | *Pending* | - | 🟢 Complete | Ruth Imoni |
+| **Week 03** | Product Health | *Pending* | - | 🟢 Complete  | - |
+| **Week 04** | Suppliers Analysis | *Pending* | - | ⚪ Planned | Ruth Imoni |
+| **Week 05** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 06** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 07** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 08** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 09** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 10** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 11** | - | *Pending* | - | ⚪ Planned | - |
+| **Week 12** | Final Portfolio Presentation | *Pending* | - | ⚪ Planned | - |
 
 ---
+## 📂 Repository Structure
 ```text
 CadetX-Heavy-Supplier-Warehouse-Analytics/
 ├── README.md                      <-- Main project overview & index
