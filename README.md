@@ -41,11 +41,27 @@ The analyses across all 12 sprints utilize raw supply-chain operational datasets
   * Weekly Sprint Reports & Scrum Master Retrospectives
 
 ---
+## 📅 Sprint Progress & Deliverables
 
+| Sprint | Focus Area | Key Deliverables | Sprint Notes | Status |
+| :---: | :--- | :--- | :---: | :---: |
+| **Week 01** | Data Ingestion & Initial EDA | *pending* | - | 🟢 Complete |
+| **Week 02** | Identify Slow Movers | *Pending* | - | 🟢 Complete |
+| **Week 03** | Product Health | *Pending* | - | 🟢 Complete  |
+| **Week 04** | Suppliers Analysis | *Pending* | - | ⚪ Planned |
+| **Week 05** | - | *Pending* | - | ⚪ Planned |
+| **Week 06** | - | *Pending* | - | ⚪ Planned |
+| **Week 07** | - | *Pending* | - | ⚪ Planned |
+| **Week 08** | - | *Pending* | - | ⚪ Planned |
+| **Week 09** | - | *Pending* | - | ⚪ Planned |
+| **Week 10** | - | *Pending* | - | ⚪ Planned |
+| **Week 11** | - | *Pending* | - | ⚪ Planned |
+| **Week 12** | Final Portfolio Presentation | *Pending* | - | ⚪ Planned |
 ## 📂 Repository Structure
 
+---
 ```text
-heavy-supplier-warehouse-analytics/
+CadetX-Heavy-Supplier-Warehouse-Analytics/
 ├── README.md                      <-- Main project overview & index
 ├── data/
 │   └── raw-dataset.zip            <-- Compressed raw project dataset
