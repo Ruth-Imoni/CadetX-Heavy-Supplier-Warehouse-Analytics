@@ -23,9 +23,22 @@ This repository serves as the central hub for our analytics team's end-to-end de
 
 The analyses across all 12 sprints utilize raw supply-chain operational datasets covering supplier performance, product inventory levels, and warehouse shipment metrics.
 
-* 📥 **Download Raw Dataset:** [`data/raw-dataset.zip`](./data/raw-dataset.zip)
+The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehouseDatasets Original`](./HeavySuppliersWarehouseDatasets%20Original/) directory and include:
 
-> **Note:** Extract the contents of `raw-dataset.zip` into your local `/data` directory prior to running any SQL scripts or Jupyter notebooks.
+| File Name | Description |
+| :--- | :--- |
+| `branches.csv` | Warehouse location and regional branch details |
+| `customers.csv` | Customer demographics and order profiles |
+| `inventory_master.csv` | Current stock levels, SKU IDs, and reorder thresholds |
+| `invoices.csv` | Billing and transaction history |
+| `payments.csv` | Payment statuses and settlement logs |
+| `products.csv` | Heavy goods product categories and weights |
+| `purchase_orders_header.csv` | Supplier purchase order headers |
+| `purchase_orders_lines.csv` | Detailed line items for purchase orders |
+| `sales_orders_header.csv` | Customer sales order summaries |
+| `sales_orders_lines.csv` | Detailed line items for customer orders |
+| `stock_ledger.csv` | Warehouse inventory movement and tracking logs |
+| `suppliers.csv` | Supplier lead times, ratings, and performance data |
 
 ---
 
