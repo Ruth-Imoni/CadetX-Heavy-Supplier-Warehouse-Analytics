@@ -1,0 +1,9 @@
+supplier_id,supplier_name,supplier_type,product_category,city,province,region,pincode,lead_time_days,reliability_score,import_duty_rate,china_tax_id
+SUP0001,Shenzhen OEM Supplies,OEM,Medium Parts,Shenzhen,Guangdong,South China,586808,19,5,8,90SUZHOU398241
+SUP0002,Guangzhou Local Vendor Supplies,Local Vendor,Small Parts,Guangzhou,Guangdong,South China,966203,10,5,12,89TIANJI357980
+SUP0003,Shanghai Distributor Supplies,Distributor,Large Parts,Shanghai,Shanghai,East China,655757,16,4,8,96SHENZH983302
+SUP0004,Ningbo Distributor Supplies,Distributor,Large Parts,Ningbo,Zhejiang,East China,536477,18,3,8,39GUANGZ946640
+SUP0005,Tianjin OEM Supplies,OEM,Small Parts,Tianjin,Tianjin,North China,334261,28,3,5,59GUANGZ986793
+SUP0006,Qingdao Distributor Supplies,Distributor,Large Parts,Qingdao,Shandong,East China,885785,10,3,15,64SHANGH737801
+SUP0007,Suzhou Local Vendor Supplies,Local Vendor,Medium Parts,Suzhou,Jiangsu,East China,202099,12,5,15,41GUANGZ551261
+SUP0008,Hangzhou OEM Supplies,OEM,Small Parts,Hangzhou,Zhejiang,East China,306032,26,4,5,60QINGDA640679
