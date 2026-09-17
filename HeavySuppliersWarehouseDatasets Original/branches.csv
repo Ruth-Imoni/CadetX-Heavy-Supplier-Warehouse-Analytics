@@ -1,0 +1,7 @@
+branch_id,branch_name,city,state,region,warehouse_type,warehouse_capacity,service_center_available,manager_id,total_employees,avg_monthly_revenue,monthly_operational_cost,market_demand_index
+DEL001,Delhi Central,Delhi,Delhi,North,Central,45230 sqft,Yes,9593,92,5234890,3189000,9
+PUN001,Pune Distribution,Pune,Maharashtra,West,Regional,38750 sqft,Yes,6114,74,4389120,2654000,8
+CHN001,Chennai South Hub,Chennai,Tamil Nadu,South,Regional,41890 sqft,Yes,7922,81,4567780,2739000,8
+HYD001,Hyderabad Logistics,Hyderabad,Telangana,South,Branch,36210 sqft,No,4390,57,3102455,1887000,7
+KOL001,Kolkata East Depot,Kolkata,West Bengal,East,Branch,29880 sqft,No,5981,49,2894770,1743000,6
+AHM001,Ahmedabad West Hub,Ahmedabad,Gujarat,West,Service Hub,34120 sqft,Yes,4772,63,3245890,2018000,7
