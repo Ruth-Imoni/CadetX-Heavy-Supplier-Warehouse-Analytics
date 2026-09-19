@@ -57,10 +57,10 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 
 | Sprint | Focus Area | Key Deliverables | Status | Scrum Master | 
 | :---: | :--- | :--- | :---: | :---:|
-| [**Week 01**](./week-01/) | Data Foundation & Exploration |[Week 1 Documentation](./week-01/README.md) | 🟢 Complete | - |
-| [**Week 02**](./week-02/) | Slow Movers Analysis | *Pending* | 🟢 Complete | Ruth Imoni |
-| **Week 03** | Product Health | *Pending* | 🟢 Complete  | - |
-| **Week 04** | Suppliers Analysis | *Pending* | ⚪ Planned | Ruth Imoni |
+| [**Week 01**](./week-01/) | Data Foundation & Exploration |[Week 1 Documentation](./week-01/README.md) | 🟢 Complete | Kumari Arya |
+| [**Week 02**](./week-02/) | Slow-Movers Inventory  Analysis | [Week 2 Documentation](./week-02/README.md) | 🟢 Complete | Ruth Imoni |
+| [**Week 03**](./week-03/) | Product Health | [Week 3 Documentation](./week-03/README.md) | 🟢 Complete  | Tobiloba Soyinka |
+| [**Week 04**](./week-04/) | Supplier Reliability Analysis | [Week 4 Documentation](./week-04/README.md) | 🟢 Complete | Kumari Arya |
 | **Week 05** | - | *Pending* | ⚪ Planned | - |
 | **Week 06** | - | *Pending* | ⚪ Planned | - |
 | **Week 07** | - | *Pending* | ⚪ Planned | - |
