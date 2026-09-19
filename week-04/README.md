@@ -209,6 +209,7 @@ ORDER BY avg_on_time_percentage ASC;
 
 ## Files in This Directory
 
+```text
 ├── README.md (this file)
 ├── queries/
 │ ├── 01_supplier_ontime_rate.sql
