@@ -55,20 +55,20 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 ---
 ## 📅 Sprint Progress & Deliverables
 
-| Sprint | Focus Area | Key Deliverables | Sprint Notes | Status | Scrum Master | 
-| :---: | :--- | :--- | :---: | :---: | :---:|
-| **Week 01** | Data Ingestion & Initial EDA | *pending* | - | 🟢 Complete | - |
-| **Week 02** | Identify Slow Movers | *Pending* | - | 🟢 Complete | Ruth Imoni |
-| **Week 03** | Product Health | *Pending* | - | 🟢 Complete  | - |
-| **Week 04** | Suppliers Analysis | *Pending* | - | ⚪ Planned | Ruth Imoni |
-| **Week 05** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 06** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 07** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 08** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 09** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 10** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 11** | - | *Pending* | - | ⚪ Planned | - |
-| **Week 12** | Final Portfolio Presentation | *Pending* | - | ⚪ Planned | - |
+| Sprint | Focus Area | Key Deliverables | Status | Scrum Master | 
+| :---: | :--- | :--- | :---: | :---:|
+| [**Week 01**](./week-01/) | Data Foundation & Exploration |[Week 1 Documentation](./week-01/README.md) | 🟢 Complete | - |
+| [**Week 02**](./week-02/) | Slow Movers Analysis | *Pending* | 🟢 Complete | Ruth Imoni |
+| **Week 03** | Product Health | *Pending* | 🟢 Complete  | - |
+| **Week 04** | Suppliers Analysis | *Pending* | ⚪ Planned | Ruth Imoni |
+| **Week 05** | - | *Pending* | ⚪ Planned | - |
+| **Week 06** | - | *Pending* | ⚪ Planned | - |
+| **Week 07** | - | *Pending* | ⚪ Planned | - |
+| **Week 08** | - | *Pending* | ⚪ Planned | - |
+| **Week 09** | - | *Pending* | ⚪ Planned | - |
+| **Week 10** | - | *Pending* | ⚪ Planned | - |
+| **Week 11** | - | *Pending* | ⚪ Planned | - |
+| **Week 12** | Final Portfolio Presentation | *Pending* | ⚪ Planned | - |
 
 ---
 ## 📂 Repository Structure
