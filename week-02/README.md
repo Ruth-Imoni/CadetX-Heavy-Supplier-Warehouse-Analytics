@@ -138,6 +138,7 @@ ORDER BY last_sales_day DESC;
 
 ## Files in This Directory
 
+```text
 week-02/
 ├── README.md (this file)
 ├── queries/
