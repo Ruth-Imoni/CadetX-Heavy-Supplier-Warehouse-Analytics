@@ -56,10 +56,9 @@ Identified products with no sales in 90+ days across warehouse branches to reduc
 
 ## Dashboard
 
-![Slow Movers Dashboard](./week-02/Slow_Movers_Dashboard.png)
+![Slow Movers Dashboard](./Slow%20Movers%20Dashboard.png)
 
-[View Full Dashboard - Slow Movers Analysis](./week-02/Slow_Movers_DashboardX.pbix)
-
+[`Slow Movers Dashboard X.pbix`](./Slow%20Movers%20Dashboard%20X.pbix)
 
 ---
 
@@ -111,14 +110,14 @@ GROUP BY s.product_id, s.branch_id, product_name, category, current_stock
 HAVING AGE(CURRENT_DATE, MAX(movement_date)) >= '90 days'
 ORDER BY last_sales_day DESC;
 ```
-[Download: Slow Movers Query.sql](./week-02/slow_movers_analysis_cadetX.sql)
+[`slow_movers_analysis_cadetX.sql`](./slow_movers_analysis_cadetX.sql)
 
 ---
 
 ## Output Files
 
 - `slow_movers_results.csv` — 180 products with product ID, branch, name, category, current stock, and days since last sale
-[Download: Slow Movers Results CSV](./week-02/slow_movers_analysis_cadetX.csv)
+[Download: Slow Movers Results CSV](./slow_movers_analysis_cadetX.csv)
 
 ---
 
