@@ -58,7 +58,9 @@ Analyzed on-time delivery performance across 8 suppliers to identify delivery ri
 
 ## Dashboard
 
-![Supplier Reliability Scorecard]
+![Supplier Reliability Scorecard](./Supplier%20Analytics%20Dashboard.png)
+
+[`Supplier Analytics Dashboard.pbix`](./Supplier%20Analytics%20Dashboard.pbix)
 
 ---
 
@@ -184,13 +186,38 @@ SELECT * FROM supplier_performance
 ORDER BY avg_on_time_percentage ASC;
 ```
 
+* 📜 **SQL Script:** [`Supplier_Analysis.sql`](./Supplier_Analysis.sql)
+
+---
+
+## Dashboard Visuals
+
+**Filters Available:**
+- Product Category (All, by category)
+- Region (All, by region)
+- City (All, by city)
+
+**Key Performance Cards:**
+- Total Critical Products: 128
+- On-Time Orders: 63K
+- Total Orders: 75K
+
+**Chart 1: Total Orders by Suppliers**
+Horizontal bar chart ranking all 8 suppliers by order volume. Shows distribution of purchasing across suppliers.
+
+**Chart 2: Supplier Reliability Score**
+Stacked bar chart displaying reliability scores for each supplier. Uses a color gradient to indicate performance levels (darker = higher reliability).
+
+**Chart 3: On-Time Average Percentage**
+Gauge chart displaying overall on-time delivery rate at 84.50%. Shows the average performance across all suppliers.## Dashboard Visuals
+
 ---
 
 ## Output Files
 
-- `supplier_ontime_rate.csv` — On-time percentage and order counts for each supplier
-- `supplier_avg_days_late.csv` — Average days late when suppliers miss delivery dates
-- `critical_products_supplier_summary.csv` — On-time performance for critical product orders only
+- [`critical_products_supplier_summary.csv`](./critical_products_supplier_summary.csv)[`critical_products_supplier_summary.csv`](./critical_products_supplier_summary.csv) — On-time percentage and order counts for each supplier
+- [`supplier_avg_late_days.csv`](./supplier_avg_late_days.csv) — Average days late when suppliers miss delivery dates
+- [`supplier_on_time_rate.csv`](./supplier_on_time_rate.csv) — On-time performance for critical product orders only
 
 ---
 
