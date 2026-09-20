@@ -209,13 +209,13 @@ Horizontal bar chart ranking all 8 suppliers by order volume. Shows distribution
 Stacked bar chart displaying reliability scores for each supplier. Uses a color gradient to indicate performance levels (darker = higher reliability).
 
 **Chart 3: On-Time Average Percentage**
-Gauge chart displaying overall on-time delivery rate at 84.50%. Shows the average performance across all suppliers.## Dashboard Visuals
+Gauge chart displaying overall on-time delivery rate at 84.50%. Shows the average performance across all suppliers
 
 ---
 
 ## Output Files
 
-- [`critical_products_supplier_summary.csv`](./critical_products_supplier_summary.csv)[`critical_products_supplier_summary.csv`](./critical_products_supplier_summary.csv) — On-time percentage and order counts for each supplier
+- [`critical_products_supplier_summary.csv`](./critical_products_supplier_summary.csv) — On-time percentage and order counts for each supplier
 - [`supplier_avg_late_days.csv`](./supplier_avg_late_days.csv) — Average days late when suppliers miss delivery dates
 - [`supplier_on_time_rate.csv`](./supplier_on_time_rate.csv) — On-time performance for critical product orders only
 
@@ -223,7 +223,7 @@ Gauge chart displaying overall on-time delivery rate at 84.50%. Shows the averag
 
 ## Recommendations for Procurement
 
-**Stop optimizing by supplier switching.** Instead:
+**Stop optimizing by switching suppliers.** Instead:
 
 1. Adjust safety stock calculations to account for a consistent 15% late order rate
 2. Negotiate longer lead times with suppliers based on actual delivery patterns
