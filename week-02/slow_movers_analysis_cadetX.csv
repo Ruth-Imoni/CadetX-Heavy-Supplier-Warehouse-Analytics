@@ -1,0 +1,181 @@
+product_id,branch_id,product_name,category,current_stock,last_sales_date
+P012,HYD001,Brake Pad BP-40,Brakes,106209,1 year 8 mons 19 days
+P023,DEL001,Idler Wheel IW-55,Undercarriage,113718,1 year 8 mons 17 days
+P011,HYD001,Hydraulic Cylinder HC-200,Hydraulic,107771,1 year 8 mons 16 days
+P027,HYD001,O-Ring Set OR-50,Seals,104746,1 year 8 mons 15 days
+P017,PUN001,Fan Belt FB-30,Belts,104847,1 year 8 mons 13 days
+P012,DEL001,Brake Pad BP-40,Brakes,119923,1 year 8 mons 12 days
+P018,AHM001,Wheel Rim WR-24,Undercarriage,101420,1 year 8 mons 12 days
+P030,DEL001,Fuel Pump FP-350,Engine,103131,1 year 8 mons 11 days
+P002,KOL001,Engine Oil Filter OF-90,Filters,107584,1 year 8 mons 11 days
+P002,HYD001,Engine Oil Filter OF-90,Filters,121013,1 year 8 mons 10 days
+P009,DEL001,Starter Motor SM-700,Electrical,102816,1 year 8 mons 8 days
+P019,DEL001,Swing Motor SWM-350,Hydraulic,118200,1 year 8 mons 8 days
+P026,CHN001,Grease Cartridge GC-5,Lubricants,108895,1 year 8 mons 7 days
+P003,DEL001,Air Filter AF-120,Filters,104884,1 year 8 mons 7 days
+P028,DEL001,Light Assembly LA-18,Electrical,106744,1 year 8 mons 7 days
+P004,DEL001,Track Chain TC-45,Undercarriage,110145,1 year 8 mons 7 days
+P007,CHN001,Hydraulic Hose HH-60,Hydraulic,108692,1 year 8 mons 6 days
+P005,CHN001,Fuel Injector FI-220,Engine,114267,1 year 8 mons 4 days
+P028,CHN001,Light Assembly LA-18,Electrical,103464,1 year 8 mons 4 days
+P021,AHM001,Boom Cylinder BC-400,Hydraulic,108168,1 year 8 mons 3 days
+P016,AHM001,Radiator RD-250,Cooling,110893,1 year 8 mons 3 days
+P006,AHM001,Alternator ALT-500,Electrical,107359,1 year 8 mons 3 days
+P007,AHM001,Hydraulic Hose HH-60,Hydraulic,106222,1 year 8 mons 3 days
+P018,CHN001,Wheel Rim WR-24,Undercarriage,113318,1 year 8 mons 3 days
+P024,CHN001,Track Roller TR-60,Undercarriage,107215,1 year 8 mons 3 days
+P025,AHM001,Cabin Glass CG-20,Cabin,97512,1 year 8 mons 3 days
+P009,CHN001,Starter Motor SM-700,Electrical,111456,1 year 8 mons 3 days
+P010,CHN001,Turbocharger TB-900,Engine,113425,1 year 8 mons 2 days
+P022,HYD001,Control Valve CV-75,Hydraulic,112997,1 year 8 mons 2 days
+P006,KOL001,Alternator ALT-500,Electrical,109176,1 year 8 mons 2 days
+P025,CHN001,Cabin Glass CG-20,Cabin,110058,1 year 8 mons 2 days
+P008,CHN001,Bucket Tooth BT-10,Attachments,108381,1 year 8 mons 2 days
+P014,DEL001,Transmission Assembly TA-800,Transmission,111321,1 year 8 mons 2 days
+P020,CHN001,Pivot Pin PP-12,Pins & Bushes,113260,1 year 8 mons 2 days
+P020,HYD001,Pivot Pin PP-12,Pins & Bushes,102636,1 year 8 mons 2 days
+P021,CHN001,Boom Cylinder BC-400,Hydraulic,100867,1 year 8 mons 2 days
+P015,DEL001,Engine Block EB-600,Engine,100967,1 year 8 mons 2 days
+P022,CHN001,Control Valve CV-75,Hydraulic,109061,1 year 8 mons 2 days
+P029,KOL001,Pressure Sensor PS-90,Sensors,105010,1 year 8 mons 2 days
+P010,KOL001,Turbocharger TB-900,Engine,100989,1 year 8 mons 2 days
+P010,HYD001,Turbocharger TB-900,Engine,110225,1 year 8 mons 2 days
+P008,DEL001,Bucket Tooth BT-10,Attachments,106667,1 year 8 mons 1 day
+P003,PUN001,Air Filter AF-120,Filters,118139,1 year 8 mons 1 day
+P007,DEL001,Hydraulic Hose HH-60,Hydraulic,119439,1 year 8 mons 1 day
+P024,KOL001,Track Roller TR-60,Undercarriage,112198,1 year 8 mons 1 day
+P010,DEL001,Turbocharger TB-900,Engine,106895,1 year 8 mons 1 day
+P011,AHM001,Hydraulic Cylinder HC-200,Hydraulic,101291,1 year 8 mons 1 day
+P011,DEL001,Hydraulic Cylinder HC-200,Hydraulic,112300,1 year 8 mons 1 day
+P020,KOL001,Pivot Pin PP-12,Pins & Bushes,99570,1 year 8 mons 1 day
+P019,PUN001,Swing Motor SWM-350,Hydraulic,109388,1 year 8 mons 1 day
+P017,AHM001,Fan Belt FB-30,Belts,109921,1 year 8 mons 1 day
+P026,KOL001,Grease Cartridge GC-5,Lubricants,101412,1 year 8 mons
+P013,AHM001,Seal Kit SK-15,Seals,98687,1 year 7 mons 30 days
+P002,AHM001,Engine Oil Filter OF-90,Filters,110279,1 year 7 mons 30 days
+P022,PUN001,Control Valve CV-75,Hydraulic,111353,1 year 7 mons 30 days
+P002,DEL001,Engine Oil Filter OF-90,Filters,108628,1 year 8 mons
+P015,PUN001,Engine Block EB-600,Engine,106048,1 year 7 mons 30 days
+P010,AHM001,Turbocharger TB-900,Engine,115149,1 year 7 mons 30 days
+P010,PUN001,Turbocharger TB-900,Engine,114565,1 year 7 mons 30 days
+P027,KOL001,O-Ring Set OR-50,Seals,100477,1 year 8 mons
+P002,PUN001,Engine Oil Filter OF-90,Filters,101623,1 year 8 mons
+P005,PUN001,Fuel Injector FI-220,Engine,108488,1 year 7 mons 29 days
+P022,DEL001,Control Valve CV-75,Hydraulic,110752,1 year 7 mons 29 days
+P006,CHN001,Alternator ALT-500,Electrical,110681,1 year 7 mons 29 days
+P013,DEL001,Seal Kit SK-15,Seals,108520,1 year 7 mons 29 days
+P024,DEL001,Track Roller TR-60,Undercarriage,116412,1 year 7 mons 29 days
+P021,DEL001,Boom Cylinder BC-400,Hydraulic,115902,1 year 7 mons 28 days
+P029,DEL001,Pressure Sensor PS-90,Sensors,108622,1 year 7 mons 28 days
+P005,DEL001,Fuel Injector FI-220,Engine,110862,1 year 7 mons 28 days
+P025,DEL001,Cabin Glass CG-20,Cabin,109936,1 year 7 mons 28 days
+P026,DEL001,Grease Cartridge GC-5,Lubricants,103678,1 year 7 mons 28 days
+P028,AHM001,Light Assembly LA-18,Electrical,101538,1 year 7 mons 28 days
+P001,DEL001,Hydraulic Pump HP-300,Hydraulic,115928,1 year 7 mons 28 days
+P004,CHN001,Track Chain TC-45,Undercarriage,103984,1 year 7 mons 28 days
+P027,DEL001,O-Ring Set OR-50,Seals,106775,1 year 7 mons 28 days
+P023,KOL001,Idler Wheel IW-55,Undercarriage,111851,1 year 7 mons 28 days
+P023,HYD001,Idler Wheel IW-55,Undercarriage,105798,1 year 7 mons 28 days
+P015,HYD001,Engine Block EB-600,Engine,110035,1 year 7 mons 28 days
+P004,KOL001,Track Chain TC-45,Undercarriage,110042,1 year 7 mons 27 days
+P003,HYD001,Air Filter AF-120,Filters,106658,1 year 7 mons 27 days
+P004,HYD001,Track Chain TC-45,Undercarriage,109943,1 year 7 mons 27 days
+P005,HYD001,Fuel Injector FI-220,Engine,112865,1 year 7 mons 27 days
+P005,KOL001,Fuel Injector FI-220,Engine,104202,1 year 7 mons 27 days
+P006,DEL001,Alternator ALT-500,Electrical,99358,1 year 7 mons 27 days
+P009,PUN001,Starter Motor SM-700,Electrical,111320,1 year 7 mons 27 days
+P016,DEL001,Radiator RD-250,Cooling,104189,1 year 7 mons 27 days
+P017,DEL001,Fan Belt FB-30,Belts,112971,1 year 7 mons 27 days
+P017,HYD001,Fan Belt FB-30,Belts,117058,1 year 7 mons 27 days
+P018,DEL001,Wheel Rim WR-24,Undercarriage,114627,1 year 7 mons 27 days
+P018,KOL001,Wheel Rim WR-24,Undercarriage,96607,1 year 7 mons 27 days
+P020,DEL001,Pivot Pin PP-12,Pins & Bushes,104360,1 year 7 mons 27 days
+P024,HYD001,Track Roller TR-60,Undercarriage,101998,1 year 7 mons 27 days
+P025,KOL001,Cabin Glass CG-20,Cabin,110579,1 year 7 mons 27 days
+P026,HYD001,Grease Cartridge GC-5,Lubricants,108348,1 year 7 mons 27 days
+P028,HYD001,Light Assembly LA-18,Electrical,102248,1 year 7 mons 27 days
+P030,KOL001,Fuel Pump FP-350,Engine,103465,1 year 7 mons 27 days
+P021,KOL001,Boom Cylinder BC-400,Hydraulic,100829,1 year 7 mons 26 days
+P001,KOL001,Hydraulic Pump HP-300,Hydraulic,103808,1 year 7 mons 26 days
+P016,KOL001,Radiator RD-250,Cooling,97829,1 year 7 mons 26 days
+P022,KOL001,Control Valve CV-75,Hydraulic,99690,1 year 7 mons 26 days
+P009,KOL001,Starter Motor SM-700,Electrical,110547,1 year 7 mons 26 days
+P007,KOL001,Hydraulic Hose HH-60,Hydraulic,99463,1 year 7 mons 26 days
+P003,KOL001,Air Filter AF-120,Filters,110093,1 year 7 mons 26 days
+P013,KOL001,Seal Kit SK-15,Seals,105381,1 year 7 mons 26 days
+P015,KOL001,Engine Block EB-600,Engine,96547,1 year 7 mons 26 days
+P017,KOL001,Fan Belt FB-30,Belts,108003,1 year 7 mons 25 days
+P030,HYD001,Fuel Pump FP-350,Engine,104611,1 year 7 mons 25 days
+P006,HYD001,Alternator ALT-500,Electrical,109564,1 year 7 mons 25 days
+P006,PUN001,Alternator ALT-500,Electrical,111016,1 year 7 mons 25 days
+P012,KOL001,Brake Pad BP-40,Brakes,109625,1 year 7 mons 25 days
+P020,PUN001,Pivot Pin PP-12,Pins & Bushes,102734,1 year 7 mons 25 days
+P007,PUN001,Hydraulic Hose HH-60,Hydraulic,110464,1 year 7 mons 25 days
+P011,KOL001,Hydraulic Cylinder HC-200,Hydraulic,109669,1 year 7 mons 25 days
+P016,HYD001,Radiator RD-250,Cooling,106040,1 year 7 mons 25 days
+P008,HYD001,Bucket Tooth BT-10,Attachments,101753,1 year 7 mons 25 days
+P014,KOL001,Transmission Assembly TA-800,Transmission,105994,1 year 7 mons 25 days
+P008,KOL001,Bucket Tooth BT-10,Attachments,99461,1 year 7 mons 25 days
+P018,HYD001,Wheel Rim WR-24,Undercarriage,112953,1 year 7 mons 25 days
+P028,PUN001,Light Assembly LA-18,Electrical,105401,1 year 7 mons 25 days
+P028,KOL001,Light Assembly LA-18,Electrical,104851,1 year 7 mons 25 days
+P019,HYD001,Swing Motor SWM-350,Hydraulic,100008,1 year 7 mons 25 days
+P019,KOL001,Swing Motor SWM-350,Hydraulic,88853,1 year 7 mons 25 days
+P014,CHN001,Transmission Assembly TA-800,Transmission,114302,1 year 7 mons 24 days
+P017,CHN001,Fan Belt FB-30,Belts,106266,1 year 7 mons 24 days
+P029,PUN001,Pressure Sensor PS-90,Sensors,109429,1 year 7 mons 24 days
+P018,PUN001,Wheel Rim WR-24,Undercarriage,111530,1 year 7 mons 24 days
+P013,CHN001,Seal Kit SK-15,Seals,106476,1 year 7 mons 24 days
+P011,PUN001,Hydraulic Cylinder HC-200,Hydraulic,108691,1 year 7 mons 24 days
+P021,PUN001,Boom Cylinder BC-400,Hydraulic,105385,1 year 7 mons 24 days
+P008,PUN001,Bucket Tooth BT-10,Attachments,99151,1 year 7 mons 24 days
+P024,PUN001,Track Roller TR-60,Undercarriage,110555,1 year 7 mons 24 days
+P027,PUN001,O-Ring Set OR-50,Seals,112683,1 year 7 mons 24 days
+P002,CHN001,Engine Oil Filter OF-90,Filters,105885,1 year 7 mons 24 days
+P001,PUN001,Hydraulic Pump HP-300,Hydraulic,109389,1 year 7 mons 24 days
+P015,CHN001,Engine Block EB-600,Engine,113851,1 year 7 mons 24 days
+P016,CHN001,Radiator RD-250,Cooling,112003,1 year 7 mons 24 days
+P016,PUN001,Radiator RD-250,Cooling,103006,1 year 7 mons 24 days
+P025,HYD001,Cabin Glass CG-20,Cabin,113613,1 year 7 mons 23 days
+P024,AHM001,Track Roller TR-60,Undercarriage,107810,1 year 7 mons 23 days
+P012,AHM001,Brake Pad BP-40,Brakes,106861,1 year 7 mons 23 days
+P012,CHN001,Brake Pad BP-40,Brakes,107886,1 year 7 mons 23 days
+P007,HYD001,Hydraulic Hose HH-60,Hydraulic,112543,1 year 7 mons 23 days
+P030,AHM001,Fuel Pump FP-350,Engine,103248,1 year 7 mons 23 days
+P026,AHM001,Grease Cartridge GC-5,Lubricants,103793,1 year 7 mons 23 days
+P027,AHM001,O-Ring Set OR-50,Seals,108337,1 year 7 mons 23 days
+P027,CHN001,O-Ring Set OR-50,Seals,97973,1 year 7 mons 23 days
+P004,AHM001,Track Chain TC-45,Undercarriage,99909,1 year 7 mons 23 days
+P013,HYD001,Seal Kit SK-15,Seals,111295,1 year 7 mons 23 days
+P003,CHN001,Air Filter AF-120,Filters,107840,1 year 7 mons 23 days
+P014,HYD001,Transmission Assembly TA-800,Transmission,111315,1 year 7 mons 23 days
+P029,HYD001,Pressure Sensor PS-90,Sensors,112739,1 year 7 mons 23 days
+P019,AHM001,Swing Motor SWM-350,Hydraulic,105387,1 year 7 mons 23 days
+P015,AHM001,Engine Block EB-600,Engine,105135,1 year 7 mons 23 days
+P009,HYD001,Starter Motor SM-700,Electrical,100071,1 year 7 mons 23 days
+P011,CHN001,Hydraulic Cylinder HC-200,Hydraulic,110667,1 year 7 mons 23 days
+P023,CHN001,Idler Wheel IW-55,Undercarriage,107267,1 year 7 mons 23 days
+P001,HYD001,Hydraulic Pump HP-300,Hydraulic,108772,1 year 7 mons 23 days
+P021,HYD001,Boom Cylinder BC-400,Hydraulic,99466,1 year 7 mons 23 days
+P022,AHM001,Control Valve CV-75,Hydraulic,103495,1 year 7 mons 22 days
+P014,AHM001,Transmission Assembly TA-800,Transmission,105345,1 year 7 mons 22 days
+P009,AHM001,Starter Motor SM-700,Electrical,95731,1 year 7 mons 22 days
+P008,AHM001,Bucket Tooth BT-10,Attachments,109281,1 year 7 mons 22 days
+P014,PUN001,Transmission Assembly TA-800,Transmission,113386,1 year 7 mons 22 days
+P020,AHM001,Pivot Pin PP-12,Pins & Bushes,102706,1 year 7 mons 22 days
+P001,AHM001,Hydraulic Pump HP-300,Hydraulic,106714,1 year 7 mons 22 days
+P026,PUN001,Grease Cartridge GC-5,Lubricants,105190,1 year 7 mons 22 days
+P029,AHM001,Pressure Sensor PS-90,Sensors,97606,1 year 7 mons 22 days
+P003,AHM001,Air Filter AF-120,Filters,102501,1 year 7 mons 22 days
+P013,PUN001,Seal Kit SK-15,Seals,104221,1 year 7 mons 22 days
+P023,AHM001,Idler Wheel IW-55,Undercarriage,114558,1 year 7 mons 22 days
+P012,PUN001,Brake Pad BP-40,Brakes,112603,1 year 7 mons 22 days
+P023,PUN001,Idler Wheel IW-55,Undercarriage,108328,1 year 7 mons 22 days
+P025,PUN001,Cabin Glass CG-20,Cabin,110083,1 year 7 mons 22 days
+P030,PUN001,Fuel Pump FP-350,Engine,112388,1 year 7 mons 22 days
+P005,AHM001,Fuel Injector FI-220,Engine,108136,1 year 7 mons 22 days
+P004,PUN001,Track Chain TC-45,Undercarriage,104859,1 year 7 mons 22 days
+P030,CHN001,Fuel Pump FP-350,Engine,105447,1 year 7 mons 21 days
+P029,CHN001,Pressure Sensor PS-90,Sensors,101572,1 year 7 mons 21 days
+P001,CHN001,Hydraulic Pump HP-300,Hydraulic,99373,1 year 7 mons 21 days
+P019,CHN001,Swing Motor SWM-350,Hydraulic,100413,1 year 7 mons 21 days
