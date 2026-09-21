@@ -3,9 +3,9 @@
 **Status:** Completed
 
 ## Project Overview
-The purpose of
+The purpose is to assess product performance to identify high-performing, underperforming, and slow moving products and generate action insights to support better inventory and sales decisions. 
 
-**Stakeholder:** Operations Manager / Inventory Team
+**Stakeholder:** Sales / Inventory Team
 
 ---
 
@@ -20,17 +20,17 @@ The purpose of
 
 ## Business Questions
 
-1. What are the Top 10 Product by revenue, Quantity Sold
-2. How much inventory is tied up in slow-moving products?
-3. Which branches have the most dead stock?
-4. What product categories are most affected by slow movement?
-5. How long has the slowest-moving inventory been sitting idle?
+1. What is the overall sales/revenue performance of the product?
+2. What are the Top 10 product by revenue and Quantity Sold?
+3. Which products are high-performing, under-performing and slow moving?
+4.  Which products have the highest inventory value ?
+5.  What percentage of total revenue comes from the high-performing products?
 
 ---
 
 ## Datasets Used
 
-- `stock_ledger.csv` — Product movement history (IN/OUT transactions)
+- `Sales_Header_table.csv'
 - `inventory_master.csv` — Current stock levels by product and branch
 - `products.csv` — Product names, categories, and metadata
 
@@ -47,7 +47,7 @@ The purpose of
 
 ## Key Deliverables
 
-1. SQL query identifying 180 slow-moving products
+1. 
 2. CSV export with product details and last sales dates
 3. Power BI dashboard with interactive filters by branch and category
 4. Analysis findings and recommendations for the Operations team
@@ -56,7 +56,7 @@ The purpose of
 
 ## Dashboard
 
-![Slow Movers Dashboard]
+![Product Health Analysis]
 
 ---
 
@@ -64,56 +64,37 @@ The purpose of
 
 ### Executive Summary
 
-The analysis identified 180 products with zero sales activity for 90+ days. These products collectively represent 99,000+ units of inventory across multiple branches, tying up significant warehouse space and capital.
-
+The analysis identified the overall level of product performance to understand what products are performing well and underperforming or struggling and the reason behind the distinction of all product category across all branches.
 ### Key Findings
 
-1. **Total Slow-Moving Products:** 180 across all branches
-2. **Inventory Volume:** Current stock ranges from thousands to 99,000+ units per product
-3. **Time Since Last Sale:** Products haven't sold for 1+ years
-4. **Distribution:** Multiple high-value products stuck across different warehouse locations
-5. **Impact:** Dead stock consumes prime warehouse real estate and ties up working capital
+1. **Top 10 product by revenue amd Quantity Sold**
+2. **Total Revenue** 
+3. **Total sales** 
+4. **Product Segmentation:** Identified the High-performing, Under-Performing and slow-Moving Product and the reason behind it - The analysis shows that changes in prices of the product is the key influencer in the product segmentation. 
 
 ### Data Quality
 
-- No duplicates or missing values in stock ledger OUT movements
-- All required fields populated in inventory master
-- Stock levels current as of analysis date
-- Analysis covers 100% of inventory transactions
+- No duplicates or missing values in all datasets provided. 
 
 ---
 
 ## Scrum Master Notes
 
-**Sprint Goal:** Identify slow-moving inventory by branch to reduce dead stock  
-**Actual Output:** 180 products flagged, 4 dashboard visuals created  
+**Sprint Goal:** Determine the overall level of performance of all product 
+**Actual Output:** Total Revenue, Sales, Product Table Summary and Product Segmentation
 **Challenges:** None. Data quality was clean across all three tables  
-**Next Steps:** Present findings to Operations Manager for clearance decisions  
+**Next Steps:** Present findings to the sales team or manager
 **Confidence Level:** High. Analysis covers the complete dataset with no data gaps
 
 ---
 
 ## SQL Query
 
-```sql
----Identify products with no sales in 90+ days by branch to reduce dead stock and understand inventory risk---
+No SQL Query was conducted. The analysis was mainly carried out using powerBI
 
-SELECT s.product_id, s.branch_id, product_name, category, current_stock,
-AGE(CURRENT_DATE, MAX(movement_date)) AS last_sales_day
-FROM stock_ledger AS s
-JOIN products AS p ON s.product_id = p.product_id
-JOIN inventory_master AS i ON s.product_id = i.product_id AND s.branch_id = i.branch_id
-WHERE movement_type = 'OUT'
-GROUP BY s.product_id, s.branch_id, product_name, category, current_stock
-HAVING AGE(CURRENT_DATE, MAX(movement_date)) >= '90 days'
-ORDER BY last_sales_day DESC;
 ```
 
 ---
-
-## Output Files
-
-- `slow_movers_results.csv` — 180 products with product ID, branch, name, category, current stock, and days since last sale
 
 ---
 
@@ -123,16 +104,12 @@ ORDER BY last_sales_day DESC;
 2. **Card:** Total count of slow-moving products (180)
 3. **Slicer:** Filter by branch location
 4. **Bar Chart:** Count of slow movers by product category
+5. **Ribbon Chart:** Product Segmentation (High-performing, Underperforming & Slow )
 
 ---
 
 ## Recommendations
-
-1. Conduct a clearance sale on products idle for 1+ years
-2. Review pricing strategy for products idle for 6-12 months
-3. Investigate why certain categories have higher slow-mover rates
-4. Implement automated alerts when products reach the 180-day mark
-5. Allocate warehouse space based on velocity, not just volume
+1. 
 
 ---
 
@@ -141,9 +118,6 @@ ORDER BY last_sales_day DESC;
 ```text
 week-02/
 ├── README.md (this file)
-├── queries/
-│ └── slow_movers_analysis.sql
-├── data/
-│ └── slow_movers_results.csv
+├──
 └── dashboards/
-└── slow_movers_dashboard.pbix
+└── Product Health Dashboard
