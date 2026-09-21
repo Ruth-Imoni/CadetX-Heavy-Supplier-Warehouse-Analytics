@@ -2,10 +2,10 @@
 
 **Status:** Completed
 
-## Project Overview
+## Project Overview 
 The purpose is to assess product performance to identify high-performing, underperforming, and slow moving products and generate action insights to support better inventory and sales decisions. 
 
-**Stakeholder:** Sales / Inventory Team
+**Stakeholder:** Sales Team
 
 ---
 
@@ -30,7 +30,7 @@ The purpose is to assess product performance to identify high-performing, underp
 
 ## Datasets Used
 
-- `Sales_Header_table.csv'
+- `Line_Sales_table.csv'
 - `inventory_master.csv` — Current stock levels by product and branch
 - `products.csv` — Product names, categories, and metadata
 
@@ -38,8 +38,6 @@ The purpose is to assess product performance to identify high-performing, underp
 
 ## Tech Stack
 
-- **Database:** PostgreSQL
-- **Query Language:** SQL
 - **Visualization:** Power BI
 - **Version Control:** GitHub
 
@@ -47,10 +45,8 @@ The purpose is to assess product performance to identify high-performing, underp
 
 ## Key Deliverables
 
-1. 
-2. CSV export with product details and last sales dates
-3. Power BI dashboard with interactive filters by branch and category
-4. Analysis findings and recommendations for the Operations team
+1. Power BI dashboard with interactive filters by Producct ID
+2. Analysis findings and recommendations for the Sales team
 
 ---
 
@@ -80,7 +76,7 @@ The analysis identified the overall level of product performance to understand w
 
 ## Scrum Master Notes
 
-**Sprint Goal:** Determine the overall level of performance of all product 
+**Sprint Goal:** Determine the overall product performance, identifying the top product by revenue and quantity sold, sales and high-performing product driving the revenue of the business and reason led to the under-performing products. 
 **Actual Output:** Total Revenue, Sales, Product Table Summary and Product Segmentation
 **Challenges:** None. Data quality was clean across all three tables  
 **Next Steps:** Present findings to the sales team or manager
