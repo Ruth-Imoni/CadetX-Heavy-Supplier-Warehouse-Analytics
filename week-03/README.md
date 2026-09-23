@@ -23,7 +23,7 @@ The purpose is to assess product performance to identify high-performing, underp
 1. What is the overall sales/revenue performance of the product?
 2. What are the Top 10 product by revenue and Quantity Sold?
 3. Which products are high-performing, under-performing and slow moving?
-4.  Which products have the highest inventory value ?
+4. What are the revenue margin percentage by product category?
 5.  What percentage of total revenue comes from the high-performing products?
 
 ---
@@ -31,7 +31,7 @@ The purpose is to assess product performance to identify high-performing, underp
 ## Datasets Used
 
 - `Line_Sales_table.csv'
-- `inventory_master.csv` — Current stock levels by product and branch
+- 'Sales_Header_Table.csv'
 - `products.csv` — Product names, categories, and metadata
 
 ---
@@ -65,12 +65,15 @@ The analysis identified the overall level of product performance to understand w
 
 1. **Top 10 product by revenue amd Quantity Sold**
 2. **Total Revenue** 
-3. **Total sales** 
+3. **Total Order Value** 
 4. **Product Segmentation:** Identified the High-performing, Under-Performing and slow-Moving Product and the reason behind it - The analysis shows that changes in prices of the product is the key influencer in the product segmentation. 
+5. **Margin Percentage by Category**
 
 ### Data Quality
 
-- No duplicates or missing values in all datasets provided. 
+- No duplicates or missing values in all datasets provided.
+- 20,000 Sales Orders
+- 30 Products
 
 ---
 
@@ -86,7 +89,7 @@ The analysis identified the overall level of product performance to understand w
 
 ## SQL Query
 
-No SQL Query was conducted. The analysis was mainly carried out using powerBI
+No SQL Query was conducted. The analysis was mainly carried out using DAX measures to calculate Total Revenue & Quantity Sold. 
 
 ```
 
@@ -97,15 +100,16 @@ No SQL Query was conducted. The analysis was mainly carried out using powerBI
 ## Dashboard Visuals
 
 1. **Table:** Product name, branch location, last sales date, current stock (sorted by oldest first)
-2. **Card:** Total count of slow-moving products (180)
-3. **Slicer:** Filter by branch location
-4. **Bar Chart:** Count of slow movers by product category
+2. **Card:** Total Order Value, Total revenue & Sum of Quantity
+3. **Slicer:** Filter by Product ID
+4. **Bar Chart:** Top 10 product by Revenue and Quantity Sold 
 5. **Ribbon Chart:** Product Segmentation (High-performing, Underperforming & Slow )
+6. **Table**: **Product-Demand Analysis
 
 ---
 
 ## Recommendations
-1. 
+1. The under-performing products (17) as captured in the analysis is as a result of price differentiation, despite the high product demand, customer still find it very difficult to complete the orders due to price or shipment delivery. Therefore, the sales team needs to consider the price differentiation so as to increase the trust of the customers. 
 
 ---
 
