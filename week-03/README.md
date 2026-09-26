@@ -52,7 +52,9 @@ The purpose is to assess product performance to identify high-performing, underp
 
 ## Dashboard
 
-![Product Health Analysis]
+![Product Performance Analysis](./Screenshot%202026-09-23%20004426.png)
+
+[Product.pbix](./Product%20Performance.pbix)
 
 ---
 
