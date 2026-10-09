@@ -16,7 +16,7 @@ This repository serves as the central hub for our analytics team's end-to-end de
 | :--- | :--- |
 | **Data Analyst** | [@Ruth-Imoni](https://github.com/Ruth-Imoni) | 
 | **Data Analyst** | [@MLGideon](https://github.com/MLGideon) | 
-| **Data Scientist** | [@Kumari-arya05](https://github.com/Kumari-arya05) | 
+| **Data Scientist** | [@harshpandey97](https://github.com/harshpandey97) | 
 ---
 
 ## 📁 Dataset Download
@@ -57,12 +57,12 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 
 | Sprint | Focus Area | Key Deliverables | Status | Scrum Master | 
 | :---: | :--- | :--- | :---: | :---:|
-| [**Week 01**](./week-01/) | Data Foundation & Exploration |[Week 1 Documentation](./week-01/README.md) | 🟢 Complete | Kumari Arya |
+| [**Week 01**](./week-01/) | Data Foundation & Exploration |[Week 1 Documentation](./week-01/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 02**](./week-02/) | Slow-Movers Inventory  Analysis | [Week 2 Documentation](./week-02/README.md) | 🟢 Complete | Ruth Imoni |
-| [**Week 03**](./week-03/) | Product Health | [Week 3 Documentation](./week-03/README.md) | 🟢 Complete  | Tobiloba Soyinka |
-| [**Week 04**](./week-04/) | Supplier Reliability Analysis | [Week 4 Documentation](./week-04/README.md) | 🟢 Complete | Kumari Arya |
-| **Week 05** | - | *Pending* | ⚪ Planned | - |
-| **Week 06** | - | *Pending* | ⚪ Planned | - |
+| [**Week 03**](./week-03/) | Product Performance Analysis | [Week 3 Documentation](./week-03/README.md) | 🟢 Complete  | Tobiloba Soyinka |
+| [**Week 04**](./week-04/) | Supplier Reliability Analysis | [Week 4 Documentation](./week-04/README.md) | 🟢 Complete | Tobiloba Soyinka |
+| [**Week 05**](./week-05/) | Product Profitability |  [Week 5 Documentation](./week-05/README.md) | 🟢 Complete | Ruth Imoni |
+| [**Week 06**](./week-06/) | Geographic Sales Performance | [Week 6 Documentation](./week-06/README.md) | 🟢 Complete | Ruth Imoni |
 | **Week 07** | - | *Pending* | ⚪ Planned | - |
 | **Week 08** | - | *Pending* | ⚪ Planned | - |
 | **Week 09** | - | *Pending* | ⚪ Planned | - |
