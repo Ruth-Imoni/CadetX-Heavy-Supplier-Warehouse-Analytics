@@ -63,6 +63,7 @@ Product Profitability Dashboard
 ---
 
 ## Analysis & Results
+---
 
 ### Executive Summary
 
@@ -99,8 +100,7 @@ Across 20+ heavy supplier products, total revenue reached **25bn** against **20b
 
 **Sprint Goal:** Identify profit drivers and underperforming products to guide product strategy.  
 **Actual Output:** Comprehensive SQL scripts, CSV margin reports, and interactive Power BI dashboard.  
-**Recommendation:** Focus marketing on top 10 profit drivers and re-evaluate pricing for low-margin, high-revenue products.  
-**Confidence Level:** High. Analysis covers the complete product dataset with zero missing data gaps.
+**Recommendation:** Focus marketing on the top 10 profit drivers and re-evaluate pricing for low-margin, high-revenue products.  **Confidence Level:** High. Analysis covers the complete product dataset with zero missing data gaps.
 
 ---
 
@@ -123,8 +123,8 @@ FROM sales_orders_lines AS so
 JOIN products AS p ON so.product_id = p.product_id
 GROUP BY p.product_id, p.product_name, p.category
 ORDER BY gross_profit DESC;
-
-[`Product Profitability.sql`](./product_profitability.sql)
+```
+* 📜 **SQL Script:** [`Product Profitability.sql`](./product_profitability.sql)
 
 ---
 ### Output Files
