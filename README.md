@@ -63,7 +63,7 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 | [**Week 04**](./week-04/) | Supplier Reliability Analysis | [Week 4 Documentation](./week-04/README.md) | 🟢 Complete | Tobiloba Soyinka |
 | [**Week 05**](./week-05/) | Product Profitability |  [Week 5 Documentation](./week-05/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 06**](./week-06/) | Geographic Sales Performance | [Week 6 Documentation](./week-06/README.md) | 🟢 Complete | Ruth Imoni |
-| **Week 07** | - | *Pending* | ⚪ Planned | - |
+| [**Week 07**](./week-07/) | Customer Analytics | [Week 7 Documentation](./week-07/README.md) | 🟢 Complete | Tobiloba Soyinka |
 | **Week 08** | - | *Pending* | ⚪ Planned | - |
 | **Week 09** | - | *Pending* | ⚪ Planned | - |
 | **Week 10** | - | *Pending* | ⚪ Planned | - |
