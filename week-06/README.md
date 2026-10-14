@@ -6,8 +6,6 @@
 
 Evaluated regional and branch sales performance across 6 branches and 18K orders to identify growth opportunities and underperforming locations. The analysis highlights the South region as the market leader with 9.9bn in revenue (34% of total), while the North and East regions lag behind despite significant order volume.
 
-**Duration:** Week 6  
-**Status:** Completed  
 **Stakeholder:** Regional Management / Growth Strategy
 
 ---
@@ -136,4 +134,4 @@ ORDER BY total_revenue DESC
 ```
 ---
 ### Output Files
-
+📊 `geographic_sales_results.csv` — Regional sales metrics export.
