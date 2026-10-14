@@ -58,7 +58,7 @@ Evaluated regional and branch sales performance across 6 branches and 18K orders
 
 ## Dashboard
 
-![Geographic Sales Dashboard](./Geographic%20Analysis.png)
+![Geographic Sales Dashboard](./Geographical%20Analysis.png)
 
 * 📥 **Power BI File:** [`Geographic_Sales_Dashboard.pbix`](./Geographic%20sales%20performance.pbix)
 
