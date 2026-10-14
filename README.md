@@ -16,7 +16,6 @@ This repository serves as the central hub for our analytics team's end-to-end de
 | :--- | :--- |
 | **Data Analyst** | [@Ruth-Imoni](https://github.com/Ruth-Imoni) | 
 | **Data Analyst** | [@MLGideon](https://github.com/MLGideon) | 
-| **Data Scientist** | [@harshpandey97](https://github.com/harshpandey97) | 
 ---
 
 ## 📁 Dataset Download
@@ -64,11 +63,11 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 | [**Week 05**](./week-05/) | Product Profitability |  [Week 5 Documentation](./week-05/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 06**](./week-06/) | Geographic Sales Performance | [Week 6 Documentation](./week-06/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 07**](./week-07/) | Customer Analytics | [Week 7 Documentation](./week-07/README.md) | 🟢 Complete | Tobiloba Soyinka |
-| **Week 08** | - | *Pending* | ⚪ Planned | - |
+| [**Week 08**](./week-08/) | Invoice & Payment Analysis |  [Week 8 Documentation](./week-08/README.md) | 🟢 Complete | Ruth Imoni |
 | **Week 09** | - | *Pending* | ⚪ Planned | - |
 | **Week 10** | - | *Pending* | ⚪ Planned | - |
 | **Week 11** | - | *Pending* | ⚪ Planned | - |
-| **Week 12** | Final Portfolio Presentation | *Pending* | ⚪ Planned | - |
+| **Week 12** | - | *Pending* | ⚪ Planned | - |
 
 ---
 ## 📂 Repository Structure
