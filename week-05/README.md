@@ -56,9 +56,9 @@ Analyzed product and category profitability across the heavy goods portfolio to 
 
 ## Dashboard
 
-Product Profitability Dashboard
+![Product Profitability](./Product%20Profitability.png)
 
-* 📥 product_profitability_dashboard.pbix
+* 📥 [Product_Profitability.pbix](./Product%20profitability.pbix)
 
 ---
 
@@ -129,3 +129,17 @@ ORDER BY gross_profit DESC;
 ---
 ### Output Files
 📊 [`product_profitability.csv`](./product_profitability.csv) — Detailed product revenue, profit, and margin breakdown.
+
+---
+
+## Files in This Directory
+
+```text
+├── README.md (this file)
+├── queries/
+│ ├── 01 product profitability.sql
+├── data/
+│ ├── product profitability.csv
+└── dashboards/
+└── product profitability.pbix
+
