@@ -15,7 +15,7 @@ Analyzed on-time delivery performance across 8 suppliers to identify delivery ri
 |------|------|------|
 | [@Kumari-arya05](https://github.com/Kumari-arya05) | Scrum Master | Project oversight, stakeholder alignment |
 | [@Ruth-Imoni](https://github.com/Ruth-Imoni) | SQL Data Analyst | Query design, root cause analysis |
-| [@MLGideon](https://github.com/MLGideon) | Dashboard Developer | Power BI scorecard, supplier rankings |
+|  [@MLGideon](https://github.com/MLGideon) | Dashboard Developer | Power BI scorecard, supplier rankings |
 
 ---
 
