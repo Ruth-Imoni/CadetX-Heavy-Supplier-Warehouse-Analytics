@@ -132,6 +132,33 @@ AND h.order_status='Delivered'
 GROUP BY b.region
 ORDER BY total_revenue DESC
 ```
+
 ---
+
+## Dashboard Visuals
+
+**Filters Available:**
+* Region (All, by region)
+* Branch (All, by branch)
+
+**Key Performance Cards:**
+* Total Branches: 6
+* Total Orders: 18K
+* Total Revenue: 29bn
+
+**Chart 1: Total Revenue by Region** Horizontal bar chart outlining regional dominance, with South leading at 9.9bn (34%) and West at 9.4bn (32%).
+
+**Chart 2: Total Orders by Branch** Vertical bar chart comparing order volume across hubs, led by Chennai South Hub (3.7K) and Kolkata East Depot (3.4K).
+
+**Chart 3: Revenue vs Orders Scatter Plot** Scatter plot correlating order volume with revenue generation to highlight efficiency and performance outliers.
+
+**Chart 4: Total Unique Customers by Region** Pie chart displaying customer concentration, with the South region representing 35% of the total base.
+
+**Chart 5: Total Revenue by Branch** Horizontal bar chart breaking down branch financial output, ranging from Chennai South Hub (6.26bn) down to Hyderabad Logistics (2.9bn).
+
+**Chart 6: Branch-Level Performance Table** Detailed metrics covering market demand index, total orders, and branch performance scores (rated 1 to 8).
+
+---
+
 ### Output Files
 📊 `geographic_sales_results.csv` — Regional sales metrics export.
