@@ -39,7 +39,7 @@ Analyzed product and category profitability across the heavy goods portfolio to 
 ## Tech Stack
 
 - **Database:** PostgreSQL
-- **Query Language:** SQL (CTEs, aggregations, margin calculations)
+- **Query Language:** SQL 
 - **Visualization:** Power BI
 - **Version Control:** GitHub
 
