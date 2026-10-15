@@ -162,3 +162,15 @@ ORDER BY total_revenue DESC
 
 ### Output Files
 📊 `geographic_sales_results.csv` — Regional sales metrics export.
+
+---
+## Files in This Directory
+
+```text
+├── README.md (this file)
+├── queries/
+│   └── 01_geographic_sales_performance.sql
+├── data/
+│   └── geographic_sales_results.csv
+└── dashboards/
+    └── geographic_sales_dashboard.pbix
