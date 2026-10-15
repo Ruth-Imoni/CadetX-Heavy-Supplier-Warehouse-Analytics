@@ -304,3 +304,22 @@ ORDER BY lifetime_value DESC;
 📊 `customer_segments.csv` — Actionable customer segment mappings.
 
 📊 `inactive_customers.csv` — List of inactive accounts (90+ days).
+
+---
+
+## Files in This Directory
+
+```text
+├── README.md (this file)
+├── queries/
+│   ├── 01_customer_behavior.sql
+│   ├── 02_customer_rfm_scores.sql
+│   ├── 03_customer_segments.sql
+│   └── 04_inactive_customers.sql
+├── data/
+│   ├── customer_behavior.csv
+│   ├── customer_rfm_scores.csv
+│   ├── customer_segments.csv
+│   └── inactive_customers.csv
+└── dashboards/
+    └── customer_analytics_dashboard.pbix
