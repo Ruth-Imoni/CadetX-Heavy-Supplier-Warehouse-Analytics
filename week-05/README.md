@@ -130,7 +130,7 @@ ORDER BY total_profit DESC;
 
 
 
---- Loss Making Products ---
+--- Loss-Making Products ---
 
 SELECT 
   p.product_id,
@@ -155,6 +155,30 @@ ORDER BY total_profit DESC;
 * 📜 **SQL Script:** [`Product Profitability.sql`](./product_profitability.sql)
 
 ---
+
+## Dashboard Visuals
+
+**Filters Available:**
+* Product Category (All, by category)
+* Region (All, by region)
+
+**Key Performance Cards:**
+* Total Revenue: 25bn
+* Gross Profit: 5bn
+* Gross Profit Margin: 45.83%
+
+**Chart 1: Total Profit by Product** Horizontal bar chart ranking all products by profit contribution, led by Engine Block EB-600 at 1.06bn profit.
+
+**Chart 2: Top 10 Products by Profit** Vertical bar chart highlighting top profit drivers, including Engine Block EB-600 (1.06bn), Transmission Assembly TA-800 (0.68bn), and Boom Cylinder BC-400 (0.49bn).
+
+**Chart 3: Profit Margin % by Category** Pie chart showing category distribution, featuring high-margin leaders like O-Ring Set (48.83%) and Grease Cartridge (47.94%).
+
+**Chart 4: Revenue vs Profit Scatter Plot** Scatter plot displaying the relationship between total revenue and profit, identifying high-revenue items with low margins.
+
+**Chart 5: Product Table** Sortable detailed view of product name, total revenue, total profit, and profit margin percentage.
+
+---
+
 ### Output Files
 📊 [`product_profitability.csv`](./product_profitability.csv) — Detailed product revenue, profit, and margin breakdown.
 
