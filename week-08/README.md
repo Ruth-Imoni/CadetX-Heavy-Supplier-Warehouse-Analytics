@@ -266,7 +266,7 @@ ORDER BY cr.outstanding_amount DESC;
 ---
 
 ## Output Files
-`bad debt risk assessment.csv`
-`overdue invoices.csv`
-`payment time by customer type.csv`
-`payment timelines by customer`
+- `bad debt risk assessment.csv`
+- `overdue invoices.csv`
+- `payment time by customer type.csv`
+- `payment timelines by customer.csv`
