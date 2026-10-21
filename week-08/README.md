@@ -48,9 +48,10 @@ Measured how long customers take to pay, how much invoiced value remains unpaid,
 
 1. Payment timeliness by customer (Query 1)
 2. Overdue invoice list with open and paid-late status (Query 2)
-3. Customer bad debt risk assessment with outstanding amounts (Query 4)
-4. Power BI Invoice & Payment Risk Dashboard
-5. Data validation log for negative payment days
+3. Payment time by customer type (Query 3)
+4. Customer bad debt risk assessment with outstanding amounts (Query 4)
+5. Power BI Invoice & Payment Risk Dashboard
+6. Data validation log for negative payment days
 
 ---
 
@@ -135,7 +136,7 @@ Analysis across 18.06bn in invoiced orders reveals that 2.92bn (16%) remains unp
 ## Scrum Master Notes
 
 **Sprint Goal:** Quantify unpaid invoices, payment timing, and bad debt risk to guide collections and cash planning.  
-**Actual Output:** Three SQL queries, Power BI dashboard, and validation logs for payment anomalies.  
+**Actual Output:** Four SQL queries, Power BI dashboard, and validation logs for payment anomalies.  
 **Recommendation:** Confirm status of 2019-2020 open invoices with Finance and align risk category rules before final submission.  
 **Confidence Level:** Moderate. Totals match dashboard outputs, but negative payment rows and partial payment allocations remain under review.
 
@@ -207,6 +208,27 @@ WHERE COALESCE(il.paid_date, ref.ref_date) - il.invoice_date > 30
 ORDER BY days_elapsed DESC;
 ```
 
+### Query 3: Payment Time by Customer Type
+```
+SELECT
+  c.customer_type,
+  COUNT(DISTINCT c.customer_id) AS customer_count,
+  COUNT(*) AS paid_invoices,
+  ROUND(AVG(il.paid_date - il.invoice_date), 2) AS avg_dso,
+  ROUND(STDDEV(il.paid_date - il.invoice_date), 2) AS dso_std_dev,
+  MIN(il.paid_date - il.invoice_date) AS fastest_payment_days,
+  MAX(il.paid_date - il.invoice_date) AS slowest_payment_days,
+  ROUND(
+    COUNT(CASE WHEN il.paid_date - il.invoice_date <= 30 THEN 1 END)::numeric * 100 / COUNT(*),
+    2
+  ) AS on_time_percentage
+FROM invoice_level AS il
+JOIN customers AS c ON il.customer_id = c.customer_id
+WHERE il.paid_date IS NOT NULL
+GROUP BY c.customer_type
+ORDER BY avg_dso DESC;
+```
+
 ### Query 4: Bad Debt Risk Assessment
 ```
 , customer_risk AS (
@@ -240,6 +262,11 @@ JOIN customers AS c ON cr.customer_id = c.customer_id
 ORDER BY cr.outstanding_amount DESC;
 ```
 
+### SQL Script: 
 ---
 
 ## Output Files
+`bad debt risk assessment.csv`
+`overdue invoices.csv`
+`payment time by customer type.csv`
+`payment timelines by customer`
