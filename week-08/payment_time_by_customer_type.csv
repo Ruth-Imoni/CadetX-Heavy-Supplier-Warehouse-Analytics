@@ -1,0 +1,6 @@
+"customer_type","customer_count","paid_invoices","avg_dso","dso_std_dev","on_time_percentage"
+"Fleet Owner","95","3106","44.07","97.07","42.43"
+"Retail","88","2909","43.71","103.20","42.90"
+"Government","114","3673","43.24","120.15","42.39"
+"Corporate","104","3276","42.11","102.33","42.06"
+"Dealer","99","3267","40.82","89.11","42.58"
