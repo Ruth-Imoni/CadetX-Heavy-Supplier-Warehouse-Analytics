@@ -57,9 +57,9 @@ Analyzed customer behavior across 500 active customers to measure lifetime value
 
 ## Dashboard
 
-![Customer Analytics Dashboard](./customer_analytics_dashboard.png)
+![Customer Analytics Dashboard](./Customer%20Analytics.png)
 
-* 📥 **Power BI File:** [`customer_analytics_dashboard.pbix`](./customer_analytics_dashboard.pbix)
+* 📥 **Power BI File:** [`Customer_Analytics_Dashboard.pbix`](./Customer%20Analytics%20Dashboard.pbix)
 
 ---
 
