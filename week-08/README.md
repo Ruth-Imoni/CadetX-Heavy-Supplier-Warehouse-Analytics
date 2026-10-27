@@ -57,9 +57,9 @@ Measured how long customers take to pay, how much invoiced value remains unpaid,
 
 ## Dashboard
 
-![Invoice & Payment Risk Dashboard](./invoice_payment_dashboard.png)
+![Invoice & Payment Risk Dashboard](./Invoice%20&%20payment.png)
 
-* 📥 **Power BI File:** `invoice_payment_dashboard.pbix`
+* 📥 **Power BI File:** [Invoice & Payment Risk Dashboard](./Invoice%20&%20Payment%20Dashboard.pbix)
 
 ---
 
