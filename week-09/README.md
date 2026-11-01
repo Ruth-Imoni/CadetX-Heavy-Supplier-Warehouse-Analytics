@@ -334,6 +334,7 @@ ORDER BY ABS(x.stock_share_pct - x.sales_share_pct) DESC NULLS LAST;
 - `stock_distribution_imbalance.csv`
 ---
 ### Files in this Directory
+```text
 
 ├── README.md (this file)
 ├── queries/
