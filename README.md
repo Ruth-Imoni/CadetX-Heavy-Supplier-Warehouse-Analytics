@@ -64,10 +64,10 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 | [**Week 06**](./week-06/) | Geographic Sales Performance | [Week 6 Documentation](./week-06/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 07**](./week-07/) | Customer Analytics | [Week 7 Documentation](./week-07/README.md) | 🟢 Complete | Tobiloba Soyinka |
 | [**Week 08**](./week-08/) | Invoice & Payment Analysis | [Week 8 Documentation](./week-08/README.md) | 🟢 Complete | Ruth Imoni |
-| [**Week 09**](./week-09/) | Inventory Availability & Reorder Analysis |  [Week 9 Documentation](./week-09/README.md) | ⚪ Planned | Tobiloba |
-| **Week 10** | - | *Pending* | ⚪ Planned | - |
-| **Week 11** | - | *Pending* | ⚪ Planned | - |
-| **Week 12** | - | *Pending* | ⚪ Planned | - |
+| [**Week 09**](./week-09/) | Inventory Availability & Reorder Analysis |  [Week 9 Documentation](./week-09/README.md) | 🟢 Complete | Tobiloba |
+| [**Week 10**](./week-10/) | Demand Forecast |  [Week 10 Documentation](./week-10/README.md) | ⚪ Progress | Ruth Imoni |
+| **Week 11** | - | *Pending* | ⚪ Planned | Tobiloba Soyinka |
+| **Week 12** | - | *Pending* | ⚪ Planned | Ruth Imoni |
 
 ---
 ## 📂 Repository Structure
