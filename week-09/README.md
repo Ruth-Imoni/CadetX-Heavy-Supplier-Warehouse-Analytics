@@ -66,9 +66,9 @@ Assessed current stock availability across six branches to identify products tha
 
 ## Dashboard
 
-![Inventory Management Overview](./inventory_monitoring_dashboard.png)
+![Inventory Management Overview](./Screenshot%202026-11-01%20033234.png)
 
-* 📥 **Power BI File:** [`inventory_monitoring_dashboard.pbix`](./inventory_monitoring_dashboard.pbix)
+* 📥 **Power BI File:** [`inventory_monitoring_dashboard.pbix`](./Inventory%20Management.pbix)
 
 ---
 
