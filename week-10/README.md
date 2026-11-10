@@ -276,12 +276,12 @@ FROM backtest;
 ---
 
 ## Output Files
-` monthly_demand_history.csv`
-`demand_forecast_next_90d.csv`
-`forecast_backtest_accuracy.csv`
-`forecast_accuracy_summary.csv`
-`forecast_backtest_accuracy_window2.csv`
-` forecast_accuracy_summary_window2.csv`
+- ` monthly_demand_history.csv`
+- `demand_forecast_next_90d.csv`
+- `forecast_backtest_accuracy.csv`
+- `forecast_accuracy_summary.csv`
+- `forecast_backtest_accuracy_window2.csv`
+- `forecast_accuracy_summary_window2.csv`
 
 ---
 
