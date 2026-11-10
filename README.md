@@ -66,8 +66,8 @@ The operational supply-chain datasets are stored in the [`/HeavySuppliersWarehou
 | [**Week 08**](./week-08/) | Invoice & Payment Analysis | [Week 8 Documentation](./week-08/README.md) | 🟢 Complete | Ruth Imoni |
 | [**Week 09**](./week-09/) | Inventory Availability & Reorder Analysis |  [Week 9 Documentation](./week-09/README.md) | 🟢 Complete | Tobiloba |
 | [**Week 10**](./week-10/) | Demand Forecast |  [Week 10 Documentation](./week-10/README.md) | ⚪ Progress | Ruth Imoni |
-| **Week 11** | - | *Pending* | ⚪ Planned | Tobiloba Soyinka |
-| **Week 12** | - | *Pending* | ⚪ Planned | Ruth Imoni |
+| [**Week 11**](./week-11/) | Business Performance Analytics | [Week 11 Documentation](./week-11/README.md) | ⚪ Planned | Tobiloba Soyinka |
+|  [**Week 12**](./week-12/) | Business Overview | [Week 12 Documentation](./week-12/README.md) | ⚪ Planned | Ruth Imoni |
 
 ---
 ## 📂 Repository Structure
